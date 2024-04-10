@@ -1,2 +1,2 @@
 # datascience
-For DataScience Projects
+The repo is for DataScience Projects
